@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typeOfLesson">
+        <item>فنی</item>
+        <item>امورشی</item>
+        <item>انگلیسی</item>
+        <item>هندسه</item>
+        <item>فیزیک</item>
+        <item>شیمی</item>
+        <item>عربی</item>
+        <item>دینی</item>
+    </string-array>
+</resources>
